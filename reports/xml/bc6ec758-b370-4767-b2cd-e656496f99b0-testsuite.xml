@@ -1,0 +1,41 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1561295013811" stop="1561295040082">
+  <name>testcase.test_question</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1561295013811" status="passed" stop="1561295037015">
+      <description>
+        用例描述：首轮回归测试
+        </description>
+      <name>TestQustion.test_ask_question</name>
+      <attachments>
+        <attachment source="894bb263-5003-4343-b040-5f86fc19ff96-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="8b855c5b-2805-456e-b944-27b43e981728-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试提问功能"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="用例描述"/>
+        <label name="thread" value="15108-MainThread"/>
+        <label name="host" value="ThinkPad-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1561295037020" status="passed" stop="1561295040082">
+      <name>TestQustion.test_ask_sameQuestion</name>
+      <attachments>
+        <attachment source="6d56b4dc-f336-40b6-98d2-fa63a2427c43-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试提问相同问题提示功能"/>
+        <label name="severity" value="Normal"/>
+        <label name="thread" value="15108-MainThread"/>
+        <label name="host" value="ThinkPad-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

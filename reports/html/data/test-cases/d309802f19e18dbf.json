@@ -1,0 +1,88 @@
+{
+  "uid" : "d309802f19e18dbf",
+  "name" : "TestQustion.test_ask_question",
+  "fullName" : "testcase.test_question.TestQustion.test_ask_question",
+  "historyId" : "b2ee9c34a4612e82105e8a2cdec6ef1e",
+  "time" : {
+    "start" : 1561295013811,
+    "stop" : 1561295037015,
+    "duration" : 23204
+  },
+  "description" : "\n        用例描述：首轮回归测试\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：首轮回归测试\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b39bc72ed9fe6598",
+      "name" : "Captured log setup",
+      "source" : "b39bc72ed9fe6598.txt",
+      "type" : "text/plain",
+      "size" : 401
+    }, {
+      "uid" : "a451fe44c0c9bef5",
+      "name" : "Captured log call",
+      "source" : "a451fe44c0c9bef5.txt",
+      "type" : "text/plain",
+      "size" : 833
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试提问功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "ThinkPad-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "story",
+    "value" : "用例描述"
+  }, {
+    "name" : "thread",
+    "value" : "15108-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase.test_question"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.test_question"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestQustion.test_ask_question"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_question"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d309802f19e18dbf.json",
+  "parameterValues" : [ ]
+}

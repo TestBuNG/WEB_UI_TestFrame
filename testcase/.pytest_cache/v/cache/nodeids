@@ -1,0 +1,7 @@
+[
+  "test_login.py::test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+  "test_login.py::test_login[lorda-admin7900-\\u6210\\u529f\\u767b\\u5f55]",
+  "test_login.py::test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+  "test_question.py::TestQustion::()::test_ask_question",
+  "test_question.py::TestQustion::()::test_ask_sameQuestion"
+]

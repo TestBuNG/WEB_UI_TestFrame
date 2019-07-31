@@ -1,0 +1,51 @@
+[ {
+  "uid" : "7161aaa79f90518b",
+  "name" : "test_login[lorda-admin7900-\\u6210\\u529f\\u767b\\u5f55]",
+  "time" : {
+    "start" : 1561295013805,
+    "stop" : 1561295013808,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "blocker"
+}, {
+  "uid" : "f32809280f2e64cb",
+  "name" : "TestQustion.test_ask_sameQuestion",
+  "time" : {
+    "start" : 1561295037020,
+    "stop" : 1561295040082,
+    "duration" : 3062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3066f435ab8a560e",
+  "name" : "test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+  "time" : {
+    "start" : 1561295013809,
+    "stop" : 1561295013810,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "critical"
+}, {
+  "uid" : "d309802f19e18dbf",
+  "name" : "TestQustion.test_ask_question",
+  "time" : {
+    "start" : 1561295013811,
+    "stop" : 1561295037015,
+    "duration" : 23204
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "eb3461016a4b5990",
+  "name" : "test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+  "time" : {
+    "start" : 1561295013801,
+    "stop" : 1561295013804,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "blocker"
+} ]

@@ -1,0 +1,9 @@
+test_question.py            20 INFO     ===== <Ask Question Action> ======
+sele_func.py                30 INFO     ===== <Location Element>：method->class name, value->pull-right  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->name, value->title  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->name, value->content  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->name, value->tags  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->id, value->publish  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->id, value->messages  ==========
+test_question.py            28 INFO     =====< Success publish message > message: ×
+问题已提交！ =====

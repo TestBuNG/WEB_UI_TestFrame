@@ -1,0 +1,8 @@
+test_question.py            35 INFO     ===== <Ask Same Question Action> ======
+sele_func.py                30 INFO     ===== <Location Element>：method->class name, value->pull-right  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->name, value->title  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->name, value->content  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->name, value->tags  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->id, value->publish  ==========
+sele_func.py                30 INFO     ===== <Location Element>：method->class name, value->invalid-feedback  ==========
+test_question.py            41 INFO     =====< Same title message > message: 具有 标题 的 问题 已存在。 =====

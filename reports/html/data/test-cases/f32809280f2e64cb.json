@@ -1,0 +1,79 @@
+{
+  "uid" : "f32809280f2e64cb",
+  "name" : "TestQustion.test_ask_sameQuestion",
+  "fullName" : "testcase.test_question.TestQustion.test_ask_sameQuestion",
+  "historyId" : "f68c8bf4ff0fbd7cba92b7eed9f2abf2",
+  "time" : {
+    "start" : 1561295037020,
+    "stop" : 1561295040082,
+    "duration" : 3062
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7092d4c28ad894dd",
+      "name" : "Captured log call",
+      "source" : "7092d4c28ad894dd.txt",
+      "type" : "text/plain",
+      "size" : 865
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试提问相同问题提示功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "ThinkPad-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "Normal"
+  }, {
+    "name" : "thread",
+    "value" : "15108-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase.test_question"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.test_question"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestQustion.test_ask_sameQuestion"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_question"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f32809280f2e64cb.json",
+  "parameterValues" : [ ]
+}

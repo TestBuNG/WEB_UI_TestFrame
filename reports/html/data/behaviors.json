@@ -1,0 +1,85 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试正常登录功能",
+    "children" : [ {
+      "name" : "test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+      "uid" : "eb3461016a4b5990",
+      "parentUid" : "2e9e2b71ea6dc6d641a07ac9b09b4040",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1561295013801,
+        "stop" : 1561295013804,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login[lorda-admin7900-\\u6210\\u529f\\u767b\\u5f55]",
+      "uid" : "7161aaa79f90518b",
+      "parentUid" : "2e9e2b71ea6dc6d641a07ac9b09b4040",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1561295013805,
+        "stop" : 1561295013808,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2e9e2b71ea6dc6d641a07ac9b09b4040"
+  }, {
+    "name" : "测试登录验证功能",
+    "children" : [ {
+      "name" : "test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+      "uid" : "3066f435ab8a560e",
+      "parentUid" : "ad68dc6a606c4acb86827c0d9e9fdcff",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1561295013809,
+        "stop" : 1561295013810,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ad68dc6a606c4acb86827c0d9e9fdcff"
+  }, {
+    "name" : "测试提问功能",
+    "children" : [ {
+      "name" : "用例描述",
+      "children" : [ {
+        "name" : "TestQustion.test_ask_question",
+        "uid" : "d309802f19e18dbf",
+        "parentUid" : "b5b8363b0449d6844f4c556b616b696e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561295013811,
+          "stop" : 1561295037015,
+          "duration" : 23204
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5b8363b0449d6844f4c556b616b696e"
+    } ],
+    "uid" : "64bdf8ff04af17f60f6d52085a8ff255"
+  }, {
+    "name" : "测试提问相同问题提示功能",
+    "children" : [ {
+      "name" : "TestQustion.test_ask_sameQuestion",
+      "uid" : "f32809280f2e64cb",
+      "parentUid" : "9be36e19e13f990f54060574db43ac58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561295037020,
+        "stop" : 1561295040082,
+        "duration" : 3062
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9be36e19e13f990f54060574db43ac58"
+  } ]
+}

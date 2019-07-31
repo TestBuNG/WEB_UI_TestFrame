@@ -1,0 +1,65 @@
+{
+  "uid" : "eb3461016a4b5990",
+  "name" : "test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+  "fullName" : "testcase.test_login.test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+  "historyId" : "b5515776521cb9ca25fc6b7aa90ca7b4",
+  "time" : {
+    "start" : 1561295013801,
+    "stop" : 1561295013804,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试正常登录功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "ThinkPad-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "BLOCKER"
+  }, {
+    "name" : "thread",
+    "value" : "15108-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb3461016a4b5990.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,100 @@
+{
+  "fb2c6d7524e1c582954edb4f714667be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3066f435ab8a560e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1561295013809,
+        "stop" : 1561295013810,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f68c8bf4ff0fbd7cba92b7eed9f2abf2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f32809280f2e64cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561295037020,
+        "stop" : 1561295040082,
+        "duration" : 3062
+      }
+    } ]
+  },
+  "b5515776521cb9ca25fc6b7aa90ca7b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb3461016a4b5990",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1561295013801,
+        "stop" : 1561295013804,
+        "duration" : 3
+      }
+    } ]
+  },
+  "b2ee9c34a4612e82105e8a2cdec6ef1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d309802f19e18dbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561295013811,
+        "stop" : 1561295037015,
+        "duration" : 23204
+      }
+    } ]
+  },
+  "a2eba47a0d9470bf2a33a597759da3f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7161aaa79f90518b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1561295013805,
+        "stop" : 1561295013808,
+        "duration" : 3
+      }
+    } ]
+  }
+}

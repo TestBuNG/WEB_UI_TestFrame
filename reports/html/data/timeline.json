@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ThinkPad-PC",
+    "children" : [ {
+      "name" : "15108-MainThread",
+      "children" : [ {
+        "name" : "test_login[lorda-admin7900-\\u6210\\u529f\\u767b\\u5f55]",
+        "uid" : "7161aaa79f90518b",
+        "parentUid" : "6ec8dd1948689472ec518067eaf80a4b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1561295013805,
+          "stop" : 1561295013808,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestQustion.test_ask_sameQuestion",
+        "uid" : "f32809280f2e64cb",
+        "parentUid" : "6ec8dd1948689472ec518067eaf80a4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561295037020,
+          "stop" : 1561295040082,
+          "duration" : 3062
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+        "uid" : "3066f435ab8a560e",
+        "parentUid" : "6ec8dd1948689472ec518067eaf80a4b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1561295013809,
+          "stop" : 1561295013810,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestQustion.test_ask_question",
+        "uid" : "d309802f19e18dbf",
+        "parentUid" : "6ec8dd1948689472ec518067eaf80a4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561295013811,
+          "stop" : 1561295037015,
+          "duration" : 23204
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+        "uid" : "eb3461016a4b5990",
+        "parentUid" : "6ec8dd1948689472ec518067eaf80a4b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1561295013801,
+          "stop" : 1561295013804,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ec8dd1948689472ec518067eaf80a4b"
+    } ],
+    "uid" : "a5e2de586f5da674915db06ca8208735"
+  } ]
+}

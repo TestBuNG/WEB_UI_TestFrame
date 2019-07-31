@@ -1,0 +1,65 @@
+{
+  "uid" : "3066f435ab8a560e",
+  "name" : "test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+  "fullName" : "testcase.test_login.test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+  "historyId" : "fb2c6d7524e1c582954edb4f714667be",
+  "time" : {
+    "start" : 1561295013809,
+    "stop" : 1561295013810,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试登录验证功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "ThinkPad-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "thread",
+    "value" : "15108-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3066f435ab8a560e.json",
+  "parameterValues" : [ ]
+}

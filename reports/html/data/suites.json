@@ -1,0 +1,73 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase.test_login",
+    "children" : [ {
+      "name" : "test_login[admin-lorda7900-\\u6210\\u529f\\u767b\\u5f55]",
+      "uid" : "eb3461016a4b5990",
+      "parentUid" : "8a5b3cf72a9edbfc2f7081c66251a380",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1561295013801,
+        "stop" : 1561295013804,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login[lorda-admin7900-\\u6210\\u529f\\u767b\\u5f55]",
+      "uid" : "7161aaa79f90518b",
+      "parentUid" : "8a5b3cf72a9edbfc2f7081c66251a380",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1561295013805,
+        "stop" : 1561295013808,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_error[admin-123456-\\u4e0d\\u6b63\\u786e]",
+      "uid" : "3066f435ab8a560e",
+      "parentUid" : "8a5b3cf72a9edbfc2f7081c66251a380",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1561295013809,
+        "stop" : 1561295013810,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8a5b3cf72a9edbfc2f7081c66251a380"
+  }, {
+    "name" : "testcase.test_question",
+    "children" : [ {
+      "name" : "TestQustion.test_ask_question",
+      "uid" : "d309802f19e18dbf",
+      "parentUid" : "b4aecc8d718d51a72da3bdfef7d13921",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561295013811,
+        "stop" : 1561295037015,
+        "duration" : 23204
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestQustion.test_ask_sameQuestion",
+      "uid" : "f32809280f2e64cb",
+      "parentUid" : "b4aecc8d718d51a72da3bdfef7d13921",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561295037020,
+        "stop" : 1561295040082,
+        "duration" : 3062
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b4aecc8d718d51a72da3bdfef7d13921"
+  } ]
+}
